@@ -1,0 +1,9 @@
+@import './coluna.css';
+@import './tabela-linha.css';
+
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    border: none;
+}

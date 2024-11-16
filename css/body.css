@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--secondary-color);
+    margin-top: 10%;
+    font-family: 'Outfit';
+    font-size: 1rem;
+    color: var(--quaternary-color);
+}

@@ -1,0 +1,8 @@
+.linha {
+    height: 1px;
+    background-color: var(--tertiary-color);
+    border: none;
+    transform: scaleY(0.5);
+    transform-origin: center;
+    margin-top: 1.5rem;
+}

@@ -1,0 +1,7 @@
+.introducao .titulo {
+    font-size: 1.8rem;
+    font-family: 'Young serif';
+    margin: 1rem 0;
+    font-weight: 400;
+    color: var(--quinary-color);
+}

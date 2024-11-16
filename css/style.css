@@ -1,0 +1,13 @@
+@import './variaveis.css';
+@import './fonts.css';
+@import './body.css';
+@import './principal.css';
+@import './introducao/introducao.css';
+@import './preparation-time/preparation-time.css';
+@import './lista/lista.css';
+@import './marker.css';
+@import './subtitulo.css';
+@import './linha.css';
+@import './paragrafo.css';
+@import './tabela/tabela.css';
+@import './responsivo.css';

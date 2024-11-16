@@ -1,0 +1,31 @@
+@media screen and (max-width: 655px) {
+
+    body {
+        margin-top: 0;
+    }
+
+    .principal {
+        width: 100%;
+        padding: 0;
+        box-shadow: none;
+        border-radius: 0;
+    }
+    
+    .introducao img {
+        border: none;
+    }
+
+    .introducao .titulo {
+        margin: 1rem;
+    }
+
+    .paragrafo {
+        margin: 1rem 1rem 1.5rem 1rem;
+        text-align: justify;
+    }
+
+    .preparation-time, .ingredients, .instrucoes, .nutricao {
+        margin: 0 2rem;
+    }
+    
+}

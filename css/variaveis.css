@@ -1,0 +1,11 @@
+:root {
+    --primary-color: hsl(0, 0%, 100%);
+    --secondary-color: hsl(30, 54%, 90%);
+    --tertiary-color: hsl(30, 18%, 87%);
+    --quaternary-color: hsl(30, 10%, 34%);
+    --quinary-color: hsl(24, 5%, 18%);
+    --senary-color: hsl(14, 45%, 36%);
+    --septenary-color: hsl(332, 51%, 32%);
+    --octary-color: hsl(330, 100%, 98%);
+    --nonary-color: rgba(0, 0, 0, 0.3);
+}

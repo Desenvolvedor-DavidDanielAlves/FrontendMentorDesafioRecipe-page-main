@@ -1,0 +1,7 @@
+.principal {
+    width: 50%;
+    background-color: var(--primary-color);
+    padding: 2.5rem;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 5px var(--nonary-color);
+}
